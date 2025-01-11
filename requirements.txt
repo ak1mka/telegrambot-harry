@@ -1,0 +1,4 @@
+pyTelegramBotAPI==24.3.1
+time
+random
+sqlite3
